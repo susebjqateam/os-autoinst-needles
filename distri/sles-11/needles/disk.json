@@ -1,0 +1,17 @@
+{
+    "area": [
+        {
+            "height": 768,
+            "type": "match",
+            "width": 1024,
+            "xpos": 0,
+            "ypos": 0
+        }
+    ],
+    "tags": [
+        "disk",
+        "ENV-DESKTOP-gnome",
+        "ENV-DISTRI-sles-11",
+        "ENV-INSTLANG-en_US"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "area": [
+        {
+            "height": 50,
+            "type": "match",
+            "width": 470,
+            "xpos": 240,
+            "ypos": 5
+        }
+    ],
+    "tags": [
+        "config-rootpw"
+    ]
+}

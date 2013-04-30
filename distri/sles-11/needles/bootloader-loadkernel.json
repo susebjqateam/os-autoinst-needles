@@ -1,0 +1,17 @@
+{
+    "area": [
+        {
+            "height": 128,
+            "type": "match",
+            "width": 194,
+            "xpos": 415,
+            "ypos": 320
+        }
+    ],
+    "tags": [
+        "bootloader-loadkernel",
+        "ENV-DESKTOP-gnome",
+        "ENV-DISTRI-sles-11",
+        "ENV-INSTLANG-en_US"
+    ]
+}

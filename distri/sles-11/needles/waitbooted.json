@@ -1,0 +1,17 @@
+{
+    "area": [
+        {
+            "height": 33,
+            "type": "match",
+            "width": 189,
+            "xpos": 435,
+            "ypos": 345
+        }
+    ],
+    "tags": [
+        "waitbooted",
+        "ENV-DESKTOP-gnome",
+        "ENV-DISTRI-sles-11",
+        "ENV-INSTLANG-en_US"
+    ]
+}

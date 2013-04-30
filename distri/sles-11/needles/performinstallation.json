@@ -1,0 +1,17 @@
+{
+    "area": [
+        {
+            "height": 43,
+            "type": "match",
+            "width": 259,
+            "xpos": 280,
+            "ypos": 5
+        }
+    ],
+    "tags": [
+        "performinstallation",
+        "ENV-DESKTOP-gnome",
+        "ENV-DISTRI-sles-11",
+        "ENV-INSTLANG-en_US"
+    ]
+}

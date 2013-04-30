@@ -1,0 +1,17 @@
+{
+    "area": [
+        {
+            "height": 43,
+            "type": "match",
+            "width": 139,
+            "xpos": 410,
+            "ypos": 495
+        }
+    ],
+    "tags": [
+        "systemanalysis",
+        "ENV-DESKTOP-gnome",
+        "ENV-DISTRI-sles-11",
+        "ENV-INSTLANG-en_US"
+    ]
+}
