@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 3,
+      "ypos": 34,
+      "width": 605,
+      "height": 62,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-banshee_launch-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
