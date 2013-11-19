@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 10,
+      "ypos": 4,
+      "width": 199,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-Gnomeopenhtml-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

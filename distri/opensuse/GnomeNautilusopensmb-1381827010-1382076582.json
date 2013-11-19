@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "width": 347,
+      "xpos": 7,
+      "type": "match",
+      "ypos": 7,
+      "height": 275
+    }
+  ],
+  "tags": [
+    "test-GnomeNautilusopensmb-2",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

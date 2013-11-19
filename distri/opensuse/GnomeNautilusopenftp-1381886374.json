@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 293,
+      "ypos": 117,
+      "width": 437,
+      "height": 510,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-GnomeNautilusopenftp-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

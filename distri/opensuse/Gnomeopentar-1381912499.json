@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 8,
+      "ypos": 10,
+      "width": 428,
+      "height": 206,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-Gnomeopentar-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
