@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 7,
+      "ypos": 6,
+      "width": 267,
+      "height": 509,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-Gnomeopenodp-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

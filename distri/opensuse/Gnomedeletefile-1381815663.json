@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 38,
+      "ypos": 58,
+      "width": 973,
+      "height": 227,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-Gnomedeletefile-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

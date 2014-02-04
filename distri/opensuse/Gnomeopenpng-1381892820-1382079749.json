@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 6,
+      "ypos": 5,
+      "width": 424,
+      "height": 214,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-Gnomeopenpng-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

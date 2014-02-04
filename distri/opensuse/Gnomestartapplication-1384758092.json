@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 103,
+      "ypos": 87,
+      "width": 821,
+      "height": 507,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-Gnomestartapplication-2",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

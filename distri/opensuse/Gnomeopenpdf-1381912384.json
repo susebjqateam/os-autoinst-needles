@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 6,
+      "ypos": 9,
+      "width": 464,
+      "height": 53,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-Gnomeopenpdf-1",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}

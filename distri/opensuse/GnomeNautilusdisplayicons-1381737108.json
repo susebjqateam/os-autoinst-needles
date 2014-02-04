@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 34,
+      "width": 1020,
+      "height": 621,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "test-GnomeNautilusdisplayicons-2",
+    "ENV-DESKTOP-gnome",
+    "ENV-DISTRI-opensuse",
+    "ENV-INSTLANG-en_US"
+  ]
+}
